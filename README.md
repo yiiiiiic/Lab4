@@ -1,2 +1,2 @@
-# CCT360-template
+CT360-template
 CCT Github Template
